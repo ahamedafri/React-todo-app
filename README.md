@@ -1,4 +1,4 @@
-![Alt Text](Assets/ezgif.com-video-to-gif (1).gif)
+![Alt Text](public/assets/ezgif.com-video-to-gif.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
